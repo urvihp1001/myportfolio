@@ -1,0 +1,14 @@
+.container
+{
+    display:flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+.button
+{
+    padding: 0.5rem;
+    border-radius: 25px;
+    background: transparent;
+    border: 1px solid #376b7e;
+    margin: 3px;
+}
